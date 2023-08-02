@@ -9,4 +9,4 @@ Praveensociomee/Praveensociomee is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <a href="[url](https://www.mrmobileappdeveloper.com/hire-freelance-mobile-app-developer/)">freelance mobile app developer</a>
-<a href="https://github.com/search?q=freelance+mobile+app+developer" target="https://www.mrmobileappdeveloper.com/">freelance mobile app developer</a>
+<a href="https://www.mrmobileappdeveloper.com/" target="https://www.mrmobileappdeveloper.com/">freelance mobile app developer</a>
